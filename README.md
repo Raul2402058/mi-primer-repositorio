@@ -1,2 +1,3 @@
 # mi-primer-repositorio
-mi primer repo
+mi primer repositorio, clase
+# Raúl Olivera Lara
